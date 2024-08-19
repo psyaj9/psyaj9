@@ -1,5 +1,4 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Athikash Jeyaganthan</h1>
+![Header](./header-image.png)
 <h3 align="center">A passionate frontend developer from London who is looking for opportunities as an aspiring software engineer. Working on my backend skills at the moment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyaj9&label=Profile%20views&color=0e75b6&style=flat" alt="psyaj9" /> </p>
