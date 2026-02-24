@@ -1,5 +1,5 @@
 ![Header](./header-image.png)
-<h3 align="center">A passionate frontend developer from London who is looking for opportunities as an aspiring software engineer. Working on my backend skills at the moment.</h3>
+<h3 align="center">A passionate developer from London who is looking for opportunities as an aspiring software engineer. Working on my backend skills at the moment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyaj9&label=Profile%20views&color=0e75b6&style=flat" alt="psyaj9" /> </p>
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **athikashj@gmail.com**
 
-- 📄 Know about my experiences [athikashj.online](athikashj.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
