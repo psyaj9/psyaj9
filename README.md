@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyaj9&label=Profile%20views&color=0e75b6&style=flat" alt="psyaj9" /> </p>
 
-- 🔭 I’m currently working on [Prepbot an ai interviewer with a group](https://github.com/Ayesha289/ai-interview-prep)
-
-- 🌱 I’m currently learning **Tailwind CSS and more backend frameworks**
-
 - 👨‍💻 All of my projects are available at [my profile page](https://github.com/psyaj9)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, NextJs, Firebase**
 
 - 📫 How to reach me **athikashj@gmail.com**
 
